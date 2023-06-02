@@ -87,8 +87,7 @@ color: var(--color-bg);
 img{
 display: block;
 width: 100%;
-object-fit: cover;
-margin-top: -25px;
+margin-top: -80px;
 }
 @media screen and (max-width:1024px) {
 .container{
