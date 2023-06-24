@@ -42,7 +42,7 @@ const data = [
       review:
         "Trust him with your work and be confident as he makes it exquisite.",
       avatar: T4,
-      name: "gordon",
+      name: "Trentty",
 
     },
   ];
